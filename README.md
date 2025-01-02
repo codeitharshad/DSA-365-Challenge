@@ -9,6 +9,7 @@ All solutions to the LeetCode problems are stored in the `solutions/` folder. Ea
 | Day  | Date       | Problem Name                                            |
 |------|------------|---------------------------------------------------------|
 | 1    | 2025-01-01 | [Two Sum](https://leetcode.com/problems/two-sum/)       |
+| 2    | 2025-01-02 | [Contains Duplicate](hhttps://leetcode.com/problems/contains-duplicate/)       |
 ---
 
 
